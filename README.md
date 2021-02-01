@@ -30,12 +30,12 @@ Este directorio contiene todo el código de base que se entrega para el funciona
 Nombres integrantes:
 
 1. Nicole Murillo Fonseca 202025521
-2.
-3.
+2. Maicol Yojan Antonio Rincón 202027329
+3. Mariana Diaz Arenas 
 
 Correos uniandes:
 
 1. n.murillof@uniandes.edu.co
-2.
-3.
+2. m.antonio@uniandes.edu.co
+3. m.diaza2@uniandes.edu.co
 
