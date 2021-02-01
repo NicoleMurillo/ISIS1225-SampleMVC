@@ -31,7 +31,7 @@ Nombres integrantes:
 
 1. Nicole Murillo Fonseca 202025521
 2. Maicol Yojan Antonio Rincón 202027329
-3. Mariana Diaz Arenas 
+3. Mariana Diaz Arenas 202020993
 
 Correos uniandes:
 
